@@ -955,17 +955,7 @@
   }
 
  
-  @media (max-width: 900px){
-   .main{
-    .navbar{
-      background-color: #ff806e;
-      width:10%;
-    }
-    .menu{
-    a{
-      margin-top: 60px;
-    }
-    }
+ 
    }
     
   }
